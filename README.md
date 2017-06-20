@@ -1,0 +1,2 @@
+# CCU_autochecksalary
+CCU_professor_autocheck_salary
